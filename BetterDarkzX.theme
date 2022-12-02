@@ -42,7 +42,7 @@
 /* @import url("https://jndev03.github.io/BDARK-Better-discord-theme/addons/compact-mode.css"); */
 
 /* Monospace, use monospaced font (JetBrains Mono) instead the default one (Disabled by default) */
-/* @import url("jndev03.github.io/BDARK-Better-discord-theme/addons/monospace-fonts.css"); */
+@import url("jndev03.github.io/BDARK-Better-discord-theme/addons/monospace-fonts.css"); */
 
 /* Square Avatar, get square avatar on chat memberlist and user area (Disabled by default) */
 /* @import url("jndev03.github.io/BDARK-Better-discord-theme/addons/square-avatar.css"); */
