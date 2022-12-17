@@ -32,23 +32,30 @@
 @import url("https://jndev03.github.io/BetterDarkzX/addons/syntax-highlight.css");
 
 /* Username Background, get colorful background behind username on chat, works best with Monospace addon. (Disabled by default) */
-@import url("https://jndev03.github.io/BetterDarkzX//addons/username-background.css");
+/*@import url("https://jndev03.github.io/BetterDarkzX/addons/username-background.css");*/
 
 /* Mac Like Titlebar (windows only), get mac style titlebar on windows client (Enabled by default) */
 @import url("https://jndev03.github.io/BetterDarkzX/addons/mac-titlebar.css");
 
 /* Compact Mode, hide some UI part on specific windows size,
   <920px Channel sidebar and member list get hidden, <600px Chat window only. (Disabled by default) */
-@import url("https://jndev03.github.io/BetterDarkzX/addons/compact-mode.css");
+/*@import url("https://jndev03.github.io/BetterDarkzX/addons/compact-mode.css");*/
 
 /* Monospace, use monospaced font (JetBrains Mono) instead the default one (Disabled by default) */
-@import url("https://jndev03.github.io/BetterDarkzX/addons/monospace-fonts.css");
+/*@import url("https://jndev03.github.io/BetterDarkzX/addons/monospace-fonts.css");*/
 
 /* Square Avatar, get square avatar on chat memberlist and user area (Disabled by default) */
 /* @import url("https://jndev03.github.io/BetterDarkzX/addons/square-avatar.css"); */
 
 /* Radialstatus theme addons - change status ( online idle dnd ofline ) to an proflle icon color (Disabled by default) */
 /*@import url("https://jndev03.github.io/BetterDarkzX/addons/RadialStatus.css"); */
+
+/* ServerColumns theme addons - change the server & folder in to the columns (Disabled by default) */
+/*@import url(https://jndev03.github.io/BetterDarkzX/addons/ServerColumns.css); */
+
+
+/* opotion theme */
+/*Background*/
 
 /* ==== Discord Variables ==== */
 :root {
@@ -70,9 +77,17 @@
   --rs-invisible-color: #747f8d; /* Colour for invisible status - Note: this will only show for your own invisibility */
   --rs-phone-color: var(--rs-online-color); /* Colour of the ring and phone icon when a user is on their phone |  */
 
-  --rs-phone-visible: block; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
+  --rs-phone-visible: block; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */   
+
+	--columns:			3;							/* default:	3					(amount of servercolumns)																		*/
+	
+	--guildsize:		50;							/* default:	50					(serversize in pixel)																			*/
+	--guildgap:			3;							/* default:	3					(top/bottom gap between servers in pixel)														*/
+	
+	--aligndms:			0;							/* default:	0					(should DMs be aligned in columns: 0 = no, 1 = yes)												*/
 }
 
+}
 .theme-dark { /* Dark Mode */
 
   /*  Header Color  */
