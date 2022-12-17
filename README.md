@@ -21,3 +21,5 @@
 - [LuckFire](https://github.com/LuckFire) for [Better Quotes](https://github.com/LuckFire/CSS-Snippets/tree/master/BetterQuotes)
 - [NYRI4](https://github.com/NYRI4) for [Discolored](https://github.com/NYRI4/Discolored)
 - [GooseNest](https://github.com/Goose-Nest) for [Revert Rebrand](https://github.com/Goose-Nest/GT-RevertRebrand)
+- [DevilBro](https://github.com/mwittrien) for [ServerColumns](https://github.com/mwittrien/BetterDiscordAddonsd)
+- [Gibbu](https://github.com/Gibbu) for [Radialstatus](https://github.com/DiscordStyles/RadialStatus)
