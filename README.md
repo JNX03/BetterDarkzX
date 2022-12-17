@@ -8,9 +8,9 @@
 
 ### BetterDiscord
 
-- Go to [latest release page](https://github.com/JNDEV03/BetterDarkzX/releases/tag/BetterDarkzX3)
+- Go to [latest release page](https://github.com/JNDEV03/BetterDarkzX/releases/tag/BetterDarkzX4)
 - Click file name : BetterDarkzX.theme to download
-- add file to better discord
+- add file to better discord (Theem file)
 - done! you got an betterDarkzX theme
 <p align="center">
 <img src="https://raw.githubusercontent.com/JNDEV03/BetterDarkzX/main/assets/betterDarkzX.png"/> </a> 
