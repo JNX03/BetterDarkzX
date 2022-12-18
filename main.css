@@ -39,8 +39,6 @@
   --border-mentioned: #474c64;
   --background-mentioned-hover: #2f3344;
   --accent-color: #7aa2f7;
-  --folder-color: #202332d0;
-  --folder-color-light: #2f3342d0;
   --scrollbar-thin-thumb: transparent;
   --scrollbar-thin-track: transparent;
   --scrollbar-auto-thumb: #2b2b46af;
@@ -90,8 +88,6 @@
   --border-mentioned: #a9afcf;
   --background-mentioned-hover: #cfd2e9;
   --accent-color: #34548a;
-  --folder-color: #a7a6a6d0;
-  --folder-color-light: #afafafd0;
   --input-box-bg: #c2c2c7;
   --input-box-border: #b3b4b8;
   --input-box-border-focus: #959699;
