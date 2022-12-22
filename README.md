@@ -1,6 +1,9 @@
 <h1 align="center">BetterDarkzX</h1>
 
 <p align="center">Better discord theme. that let you discord like mac and better dark mode.</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/JNDEV03/BetterDarkzX/main/assets/betterDarkzXSD.png"/> </a> 
+</p>
 
 ---
 
