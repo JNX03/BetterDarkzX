@@ -6,7 +6,7 @@
 </p>
 
 ---
-
+#### Dont like the Dark theme? Try [BetterWhitezX](https://github.com/JNDEV03/BetterDarkzX)
 ## Installation
 
 ### BetterDiscord
