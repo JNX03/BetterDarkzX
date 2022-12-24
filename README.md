@@ -12,11 +12,17 @@
 ### BetterDiscord
 
 - Go to [latest release page](https://github.com/JNDEV03/BetterDarkzX/releases/tag/BetterDarkzX5-1)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/JNDEV03/BetterDarkzX/main/assets/betterDarkzX.png"/> </a> 
+</p>
+
 - Click file name : BetterDarkzX.theme to download
 - add file to better discord (Theme file)
 - done! you got an betterDarkzX theme
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/JNDEV03/BetterDarkzX/main/assets/betterDarkzX.png"/> </a> 
+<img src="https://raw.githubusercontent.com/JNDEV03/BetterDarkzX/main/assets/click%20this%20black.png"/> </a> 
 </p>
 
 ## Enable addons
