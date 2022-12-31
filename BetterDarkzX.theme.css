@@ -1,8 +1,8 @@
 /**
  * @name BetterDarkzX
- * @description Discord Theme on the light mode with multi addons 
+ * @description Better discord theme that let you discord like in mac and have better dark mode
  * @author JN03
- * @version 1.3.x
+ * @version 1.4.x
  * @authorId 2354831939099688962
  * @source https://github.com/JNDEV03/BetterDarkzX
  * @website https://jndev03.github.io/BetterDarkzX/
@@ -12,6 +12,8 @@
 /* DONT TOUCH THIS!!! */
 @import url("https://jndev03.github.io/BetterDarkzX/main.css");
 
+/*Fuction BetterDarkzX 2.0 ( Enable by default - Version 1.4.x+ Only ) */
+@import url("https://jndev03.github.io/BetterDarkzX/addons/TestNets.css");
 /*  Read this before editing stuff!!!
 *
 *   > To comment or uncomment a line you need to put those "/" and "*" characters as you can see at the beginning and ending of my comments.
@@ -34,17 +36,17 @@
 @import url("https://jndev03.github.io/BetterDarkzX/addons/syntax-highlight.css");
 
 /* Username Background, get colorful background behind username on chat, works best with Monospace addon. (Disabled by default) */
-/*@import url("https://jndev03.github.io/BetterDarkzX/addons/username-background.css");*/
+@import url("https://jndev03.github.io/BetterDarkzX/addons/username-background.css");
 
 /* Mac Like Titlebar (windows only), get mac style titlebar on windows client (Enabled by default) */
 @import url("https://jndev03.github.io/BetterDarkzX/addons/mac-titlebar.css");
 
 /* Compact Mode, hide some UI part on specific windows size,
   <920px Channel sidebar and member list get hidden, <600px Chat window only. (Disabled by default) */
-/*@import url("https://jndev03.github.io/BetterDarkzX/addons/compact-mode.css");*/
+@import url("https://jndev03.github.io/BetterDarkzX/addons/compact-mode.css");
 
 /* Monospace, use monospaced font (JetBrains Mono) instead the default one (Disabled by default) */
-/*@import url("https://jndev03.github.io/BetterDarkzX/addons/monospace-fonts.css");*/
+@import url("https://jndev03.github.io/BetterDarkzX/addons/monospace-fonts.css");
 
 /* Square Avatar, get square avatar on chat memberlist and user area (Disabled by default) */
 /* @import url("https://jndev03.github.io/BetterDarkzX/addons/square-avatar.css"); */
@@ -56,11 +58,9 @@
 /*@import url(https://jndev03.github.io/BetterDarkzX/addons/ServerColumns.css); */
 
 /* Emoji - windows 11 (Enable by default) */
-@import url("https://jndev03.github.io/BetterDarkzX/addons/windown11-emoji.css");
+@import url(https://jndev03.github.io/BetterDarkzX/addons/windown11-emoji.css);
 
-/* Collap theme folder discord theme plubgin (Enable by defualt)*/
-@import url("https://jndev03.github.io/BetterDarkzX/addons/bdAddonMini.css");
-
+@import url(https://jndev03.github.io/BetterDarkzX/addons/bdAddonMini.css);
 /* opotion theme */
 /*Background*/
 
@@ -92,6 +92,47 @@
 	--guildgap:			3;							/* default:	3					(top/bottom gap between servers in pixel)														*/
 	
 	--aligndms:			0;							/* default:	0					(should DMs be aligned in columns: 0 = no, 1 = yes)												*/
+      --accent-hue: 213;
+    --accent-saturation: 100%;
+    --accent-brightness: 50%;
+    --background-accent-hue: 213;
+    --background-accent-saturation: 100%;
+    --background-accent-brightness: 50%;
+
+
+    /* window */
+    --window-background-image: initial;
+    --window-background-image-position: center;
+    --window-background-image-attachment: fixed;
+    --window-opacity: 100%;
+    --window-blur: 0;
+    --window-friends-blur: 0;
+    --window-margin: 24;
+    --window-margin-left: 0;
+    --window-border-radius: 10px;
+    --window-background-lightness: 0;
+    --window-accent-tint-strength: 5%;
+
+    /* chat */
+    --chat-bubble: 0;
+    --chat-bubble-background-color: var(--background-primary);
+    --chat-bubble-border-color: var(--background-primary-border-color);
+    --text-link-hue: 212;
+    --chat-text-brightness: 0;
+
+    /* sidebar */
+    --sidebar-width: 240px;
+    --members-width: 240px;
+    --sidebar-text-brightness: 0;
+
+    /* floating */
+    --background-floating-blur: 20px;
+    --floating-background-lightness: 0;
+    --background-floating-opacity: 1;
+    --enable-floating-transparency: 1;
+
+    /* other */
+    --enable-blur: 1;
 }
 
 }
@@ -150,6 +191,7 @@
   --close-button-color: #e92a2ade;
   --maximize-button-color: #f7bc1bde;
   --minimize-button-color: #12db33de;
+  --button-position: row;
 }
 
 .theme-light { /* Light Mode */
