@@ -1,0 +1,89 @@
+.profileColors-3Y0XaR {
+    position: relative;
+}
+
+.theme-dark .profileColors-3Y0XaR {
+    --profile-body-background-color: rgba(0, 0, 0, 0.45);
+}
+
+.theme-light .profileColors-3Y0XaR {
+    --profile-body-background-color: rgba(255, 255, 255, 0.45);
+}
+
+/* Avatar */
+.userProfileInnerThemedNonPremium-1gT-zY .avatarWrapperNormal-1tQ3Je,
+.userProfileInnerThemedNonPremium-1gT-zY .wrapper-1VLyxH.avatar-1YsFQ1 {
+    background-color: var(--profile-body-background-color);
+    box-shadow: var(--elevation-medium);
+}
+
+.userProfileInnerThemedNonPremium-1gT-zY .avatarHoverTarget-l77PhT,
+.userProfileInnerThemedNonPremium-1gT-zY .avatarHint-2g3Mcd {
+    padding: 6px;
+}
+
+.avatarWrapper-3y0KZ1 circle {
+    fill: var(--profile-avatar-border-color);
+}
+
+.wrapper-1VLyxH.avatar-1YsFQ1 circle,
+.wrapper-1VLyxH.avatar-1YsFQ1 rect:not([class]) {
+    fill: none;
+}
+
+.avatarWrapper-3y0KZ1 rect[style] {
+    opacity: 1;
+    fill: var(--profile-gradient-primary-color);
+}
+
+.userProfileInnerThemedNonPremium-1gT-zY .wrapper-1VLyxH.avatar-1YsFQ1 {
+    padding: 6px;
+    background-color: var(--profile-body-background-color);
+}
+
+/* Banner */
+.bannerSVGWrapper-qc0szY {
+    overflow: visible;
+}
+
+.userProfileInnerThemedNonPremium-1gT-zY .bannerSVGWrapper-qc0szY foreignObject {
+    mask: none;
+}
+
+.profileBanner-2zIsK7,
+.popoutBanner-16rVDY {
+    height: 100vh;
+}
+
+/* Body */
+.overlayBackground-1KgwVi {
+    margin: 28px 8px 8px;
+    z-index: 1;
+}
+
+.profileColors-3Y0XaR:not(.userPopoutInnerWithoutTheme-3IBtvN.userPopoutInnerWithBanner-1jusp9) .overlayBackground-1KgwVi {
+    box-shadow: var(--elevation-medium);
+}
+
+/* Badges */
+.userProfileInnerThemedNonPremium-1gT-zY .profileBadges-31rDHI {
+    z-index: 1;
+}
+
+.profileBadges-31rDHI:not(.containerWithContent-2_V0PM) {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.profileColors-3Y0XaR .profileBadges-31rDHI,
+.profileColors-3Y0XaR .badgeList-2pMvZX {
+    box-shadow: var(--elevation-medium);
+}
+
+.profileColors-3Y0XaR .relationshipButtons-pZ_UWl button {
+    box-shadow: var(--elevation-medium);
+}
+
+.profileColors-3Y0XaR .messageInputContainer-2rGDH8 {
+    border: none;
+}
