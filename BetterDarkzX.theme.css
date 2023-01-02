@@ -96,8 +96,8 @@
     --accent-saturation: 100%;
     --accent-brightness: 50%;
     --background-accent-hue: 213;
-    --background-accent-saturation: 100%;
-    --background-accent-brightness: 50%;
+    --background-accent-saturation: 0%;
+    --background-accent-brightness: 0%;
 
 
     /* window */
