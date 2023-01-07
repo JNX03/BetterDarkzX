@@ -25,6 +25,11 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/JNDEV03/BetterDarkzX/main/assets/click%20this%20black.png"/> </a> 
 </p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/JNDEV03/BetterWhitezX/main/assets/click%20this%20white.png"/> </a> 
+</p>
+
+- Chose you color (Dark or white theme)
 
 ## Enable addons
 
