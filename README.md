@@ -23,7 +23,7 @@
 
 - Click file name : BetterDarkzX.theme to download
 - add file to better discord (Theme file)
-- Click file name : BetterDarkzX.theme to download - add file to better discord (Theme file) - Go to setting -> Appearance -> Go to Theme and click Dark to enable it
+- Click file name : BetterDarkzX.theme to download - add file to better discord (Theme file) - Go to setting -> Appearance -> Go to Theme and click Dark/White to enable it
 - done! you got an betterDarkzX theme
 
 <p align="center">
