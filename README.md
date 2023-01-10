@@ -10,7 +10,7 @@
 ![BetterDarkzX](https://socialify.git.ci/JNDEV03/BetterDarkzX/image?description=1&font=KoHo&forks=1&issues=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 ---
-#### Dont like the Dark theme? Try [BetterWhitezX](https://github.com/JNDEV03/BetterWhitezX)
+#### Dont like the Dark theme? Try [BetterWhitezX](https://github.com/JNDEV03/BetterWhitezX)  - You can not just change the color in discord setting to white theme
 ## Installation
 
 ### BetterDiscord
