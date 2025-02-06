@@ -1,6 +1,10 @@
 <h1 align="center">BetterDarkzX</h1>
-
 <p align="center">Better discord theme. that let you discord like mac and better dark mode.</p>
+
+> [!WARNING]  
+> ⚠️ This project is now archived and will no longer receive updates, maintenance, or support. ⚠️
+
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/JNDEV03/BetterDarkzX/main/assets/betterDarkzXSD.png"/> </a> 
 </p>
@@ -10,7 +14,13 @@
 ![BetterDarkzX](https://socialify.git.ci/JNDEV03/BetterDarkzX/image?description=1&font=KoHo&forks=1&issues=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 ---
-#### Dont like the Dark theme? Try [BetterWhitezX](https://github.com/JNDEV03/BetterWhitezX)  - You can not just change the color in discord setting to white theme
+#### Don't like the Dark theme?  
+
+> [!WARNING]  
+> The **BetterWhitezX** theme is no longer available. The link has been removed, and support has been discontinued.  
+> You cannot simply change the color in Discord settings to achieve the same effect as this theme.
+
+#### Dont like the Dark theme? Try [BetterWhitezX](https://github.com/JNDEV03/BetterWhitezX) (link is no longer available) - You can not just change the color in discord setting to white theme
 ## Installation
 
 ### BetterDiscord
@@ -54,3 +64,7 @@
 - [GooseNest](https://github.com/Goose-Nest) for [Revert Rebrand](https://github.com/Goose-Nest/GT-RevertRebrand)
 - [DevilBro](https://github.com/mwittrien) for [ServerColumns](https://github.com/mwittrien/BetterDiscordAddonsd)
 - [Gibbu](https://github.com/Gibbu) for [Radialstatus](https://github.com/DiscordStyles/RadialStatus)
+
+
+> [!WARNING]  
+> ⚠️ This project is now archived and will no longer receive updates, maintenance, or support. ⚠️
